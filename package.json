@@ -1,14 +1,12 @@
 {
   "name": "apple-go",
   "version": "1.0.0",
-  "description": "Website Full-stack Jastip iPhone Original Batam",
+  "description": "Apple.GO Store Web App",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.18.2"
-  },
-  "author": "Apple.GO",
-  "license": "ISC"
+    "express": "^4.19.2"
+  }
 }
